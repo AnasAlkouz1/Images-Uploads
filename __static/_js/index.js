@@ -45,6 +45,14 @@ magnificPopup_Imges()
 
 }
 __fs.readAsDataURL(__files)
+$(document.body).find('.cont>div').each(function(_e){
+$(this).find('a>img').parent().prev().fadeOut(400)
+
+})
+
+
+
+
 }
 
 
