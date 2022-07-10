@@ -1,5 +1,5 @@
-# image-viewe
-__image-viewe
+# image-viewer
+__image-viewer
 
 
 
